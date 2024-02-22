@@ -1,44 +1,67 @@
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/30859809/235958658-fc00594c-51cd-4eee-9390-986a887b5e57.png" height="100">
-	<h1 style="margin-top: 0px;">Recapp</h1>
+    <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" height="100">
+    <h1>Task_Recap: Your Dynamic Solution for Comprehensive Task Recording and Reviewing</h1>
 </div>
 
-The goal of this app is to keep track of what you do on a daily basic so that if you need to know or create some summary of what you did in last month or last year you will have all the data at one place.
-I use this personally to keep track of my daily work stuff to show them in a Weekly/Monthly/Quatertly/Yearly reviews.
+<p align="center">
+    Simplify your task management with daily logging and robust review capabilities.
+    <br />
+    <a href="https://empress.eco/">Explore the App</a>
+    ·
+    <a href="https://github.com/empress-eco/task_recap/issues">Report Bug/Request Feature</a>
+</p>
 
-### Screenshots
+## About The Project
 
-Recapp Note (No Notes)
-<kbd>
-<img width="1427" alt="Screenshot 2023-05-03 at 6 43 01 PM" src="https://user-images.githubusercontent.com/30859809/235931393-ad295f3d-2257-4a66-a402-e54da39e6d75.png">
-</kbd>
+### 📖 Overview
 
-Create Recapp Note
-<kbd>
-<img width="1427" alt="Screenshot 2023-05-03 at 6 44 46 PM" src="https://user-images.githubusercontent.com/30859809/235931340-e5d55d26-b335-49f0-968d-7c4d1dac68cd.png">
-</kbd>
+Task_Recap is a versatile application designed to facilitate detailed record-keeping of daily tasks. Its design caters to individuals who need to maintain a comprehensive log of their daily activities, and those preparing for efficient weekly, monthly, quarterly, or yearly reviews. Task_Recap is your personal assistant for task management and productivity enhancement.
 
-Edit Recapp Note
-<kbd>
-<img width="1427" alt="Screenshot 2023-05-03 at 6 52 34 PM" src="https://user-images.githubusercontent.com/30859809/235931280-abc9c692-48df-44af-98b7-aa811056d73f.png">
-</kbd>
+### 🌟 Key Features
+- Record daily tasks and activities with ease
+- Edit your recorded tasks for improved accuracy
+- Generate detailed daily, weekly, monthly, and yearly task summaries
 
-Daily
-<kbd>
-<img width="1427" alt="Screenshot 2023-05-03 at 7 01 06 PM" src="https://user-images.githubusercontent.com/30859809/235931166-7959ce6b-dd3c-47e5-a666-5ab473161372.png">
-</kbd>
+This project is built with a focus on user-centric design and simplicity to ensure an intuitive user experience.
 
-Weekly
-<kbd>
-<img width="1427" alt="Screenshot 2023-05-03 at 7 00 53 PM" src="https://user-images.githubusercontent.com/30859809/235931201-fb77b152-c449-45dc-a58b-34a160fa7897.png">
-</kbd>
+## Technical Stack and Setup Instructions
 
+The project uses a combination of modern web technologies for efficient and smooth operation. Specific details about the technology stack used will be updated soon.
 
+To get started with Task_Recap, follow these steps:
 
+1. Clone the repository using the following command:
 
+   ```sh
+   git clone https://github.com/empress-eco/task_recap.git
+   ```
 
+   Detailed installation instructions will be provided soon. For any queries, please reach out via the support link provided.
 
+## Usage
 
-#### License
+Task_Recap is designed to be user-friendly and intuitive. Delve into its features—from recording tasks to generating comprehensive task summaries—to streamline your task management process.
 
-MIT
+## Contribution Guidelines
+
+We appreciate and encourage contributions! Here's how you can contribute:
+
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
+
+Remember, every contribution, however small, is valuable and helps enhance this project.
+
+## License and Acknowledgements
+
+### License
+
+This project is under the MIT License. Your contributions are also licensed under the MIT License.
+
+### Acknowledgements
+
+We extend our heartfelt gratitude to the Empress Community, the brains behind the crucial tools that power this project. Their innovation and dedication have been instrumental in building the foundations and functionalities we rely on. A huge shout-out to them for their groundbreaking work and ongoing support.
+
+We also thank all our contributors for their continuous efforts in enhancing the features and user experience of Task_Recap.
